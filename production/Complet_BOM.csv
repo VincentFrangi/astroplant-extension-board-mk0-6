@@ -1,6 +1,6 @@
 Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Digikey Part Number,MPN,SPN1,URL,Digikey PN,Alternativ
 1,Unpolarized capacitor,C_Small,C1 C2,0.1uF,C_0805_2012Metric,2,http://catalogs.avx.com/SurfaceMount.pdf,478-3352-1-ND,08055C104JAT2A,478-3352-1-ND,https://www.digikey.com/product-detail/en/avx-corporation/08055C104JAT2A/478-3352-1-ND/930144,,
-2,Polarised capacitor,CP,C4,470u,CP_Elec_8x11.9,1,http://katalog.we-online.de/pbs/datasheet/875075555002.pdf,,875075555002,,,732-6496-1-ND,EEH-ZK1E471P
+2,Polarised capacitor,CP,C4,470uF,CP_Elec_8x11.9,1,http://katalog.we-online.de/pbs/datasheet/875075555002.pdf,,875075555002,,,732-6496-1-ND,EEH-ZK1E471P
 3,Polarised capacitor,CP_Small,C3,470uF,CP_Elec_8x6.9,1,http://katalog.we-online.de/pbs/datasheet/875115150005.pdf,,875115150005,,,732-6443-1-ND,
 4,LED generic,LED,D5,LED_Amber,LED_0603_1608Metric,1,https://industrial.panasonic.com/content/data/SC/ds/ds4/LNJ437W84RA_E.pdf,,LNJ437W84RA,,,LNJ437W84RACT-ND,
 5,LED generic,LED,D1,LED_Blue,LED_0603_1608Metric,1,https://industrial.panasonic.com/content/data/SC/ds/ds4/LNJ937W8CRA_E.pdf,,LNJ937W8CRA,,,LNJ937W8CRACT-ND,
