@@ -2,7 +2,7 @@
 
 ## About This Project
 
-
+[Interactive BOM](http://htmlpreview.github.io/?https://github.com/VincentFrangi/astroplant-extension-board-mk0-6/blob/master/ibom.html)
 
 ## Renderings
 
